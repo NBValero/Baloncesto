@@ -1,27 +1,27 @@
 [
   {
     "Nombre": "Paul",
-    "Peso(Kg)": 120,
-    "Altura(cm)": 195
+    "Peso": 120,
+    "Altura": 195
   },
   {
     "Nombre": "Pepe",
-    "Peso(Kg)": 81,
-    "Altura(cm)": 204
+    "Peso": 81,
+    "Altura": 204
   },
   {
     "Nombre": "Manolo",
-    "Peso(Kg)": 102,
-    "Altura(cm)": 190
+    "Peso": 102,
+    "Altura": 190
   },
   {
     "Nombre": "Juan",
-    "Peso(Kg)": 91,
-    "Altura(cm)": 207
+    "Peso": 91,
+    "Altura": 207
   },
   {
     "Nombre": "Jorge",
-    "Peso(Kg)": 115,
-    "Altura(cm)": 204
+    "Peso": 115,
+    "Altura": 204
   }
 ]
